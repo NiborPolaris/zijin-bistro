@@ -2,13 +2,16 @@
 
 ## 欢迎 Introduction
 
-> 不想做厨师的程序员不是好的秃头怪。——沃·兹基·硕德
+欢迎来到子衿的私人厨房！这里记录了一些我尝试过的食谱。
 
-欢迎来到子衿的私人厨房！这里记录了一些我的<del>实验记录</del>尝试过的食谱。
+## 特色菜 Try some featured dishes
 
-## 试试这些菜吧？ Try some featured dishes
+### 最新出品 Latest
 
-### 食在四方
+- [普罗旺斯炖菜](食在四方/普罗旺斯炖菜.md)
+<img src="Images/普罗旺斯炖菜_221219_2.jpg" alt="普罗旺斯炖菜" style="zoom:10%;" />
+
+### 食在四方 Taste of globe
 
 - [法式杂菌炖鸡](食在四方/法式杂菌炖鸡.md)
 <img src="Images/法式杂菌炖鸡_1.jpg" alt="法式杂菌炖鸡" style="zoom:10%;" />
@@ -25,7 +28,7 @@
 - [博洛尼亚肉酱](食在四方/博洛尼亚肉酱.md)
 <img src="Images/博洛尼亚肉酱.jpg" alt="博洛尼亚肉酱" style="zoom: 10%;" />
 
-### 食在家乡
+### 食在家乡 Taste of local
 
 - [卤肉饭](食在家乡/台式卤肉饭.md)
 <img src="Images/台式卤肉饭_220106.jpg" alt="台式卤肉饭" style="zoom:10%;" />
