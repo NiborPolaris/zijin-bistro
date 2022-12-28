@@ -8,6 +8,9 @@
 
 ### 最新出品 Latest
 
+- [上海罗宋汤](食在四方/上海罗宋汤.md)
+<img src="Images/上海罗宋汤_221227.jpg" alt="上海罗宋汤" style="zoom:10%;" />
+
 - [普罗旺斯炖菜](食在四方/普罗旺斯炖菜.md)
 <img src="Images/普罗旺斯炖菜_221219_2.jpg" alt="普罗旺斯炖菜" style="zoom:10%;" />
 
