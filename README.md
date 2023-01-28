@@ -8,6 +8,12 @@
 
 ### 最新出品 Latest
 
+- [避风塘排骨](食在家乡/避风塘排骨.md)
+<img src="Images/避风塘排骨_230127_2.jpg" alt="避风塘排骨" style="zoom:10%;" />
+
+- [油渣奉化芋艿羹](食在家乡/油渣奉化芋艿羹.md)
+<img src="Images/油渣奉化芋艿羹_230110.jpg" alt="油渣奉化芋艿羹" style="zoom:10%;" />
+
 - [上海罗宋汤](食在四方/上海罗宋汤.md)
 <img src="Images/上海罗宋汤_221227.jpg" alt="上海罗宋汤" style="zoom:10%;" />
 
